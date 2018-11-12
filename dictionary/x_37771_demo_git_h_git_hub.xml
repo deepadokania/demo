@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="git hub" max_length="40" name="x_37771_demo_git_h_git_hub" type="collection">
+        <element label="user name" max_length="40" name="user_name" type="string"/>
+    </element>
+</database>
